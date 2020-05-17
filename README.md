@@ -3,7 +3,7 @@
 
 ## 实现效果图（录制gif图有点卡帧）
 <div>
-  <img width="400px" src="./docs/demo.gif" />
+  <img width="600px" src="./docs/demo.gif" />
 </div>
 
 ## 使用方法
