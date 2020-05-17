@@ -1,6 +1,11 @@
 # el-table-roll
 基于element的table滚动效果
 
+## 实现效果图（录制gif图有点卡帧）
+<div>
+  <img width="400px" src="./docs/demo.gif" />
+</div>
+
 ## 使用方法
 1. 实例化Roll
 ```js
