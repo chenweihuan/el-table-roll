@@ -1,6 +1,6 @@
 <template>
   <div style="min-height: 340px!important;width: 600px;">
-    <el-button @click="changeData">修改数据1</el-button>
+    <el-button @click="changeData">修改数据啦</el-button>
     <el-table :data="tableData" stripe style="width: 100%" @mouseenter.native="mouseenter"
       @mouseleave.native="mouseleave">
       <el-table-column prop="date" label="日期" width="180">
